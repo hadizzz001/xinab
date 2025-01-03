@@ -169,19 +169,7 @@ const ProductCard = ({title,videoUrl,_id,price,images,category,sx, handleQuickVi
                             </IconButton>
                         </Tooltip>
 
-                        <Tooltip placement='left' title={'Add To Favourites'}>
-                            <IconButton
-                                sx={{
-                                ':hover': {
-                                    background: 'white'
-                                },
-                                background: 'white',
-                                color: '#333',
-                                boxShadow: '1px 1px 3px grey'
-                            }}>
-                                <FavoriteBorderIcon fontSize={'small'}/>
-                            </IconButton>
-                        </Tooltip>
+                  
 
                     </Box>
                 </Box>

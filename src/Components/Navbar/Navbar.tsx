@@ -92,8 +92,8 @@ export default function Navbar() {
                         <Link href='/' color='inherit'>
                             <img
                             className='img'
-                            src="https://ucarecdn.com/14ddda63-77fa-45da-bd4b-c76dfc287c15/e8acdc0271fa456c839e813308bffa17.png"
-                            alt="Powerhouse electronics eshop logo"/>
+                            src="https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png"
+                            alt="Oxinab eshop logo"/>
                         </Link>
                     </Box>
                     
@@ -142,18 +142,7 @@ export default function Navbar() {
                         </IconButton>
 
 
-                        <IconButton 
-                        onClick={()=>setCartOpen(!cartOpen)}
-                        sx={{display:{xs:'none',sm:'flex'}}}
-                        >
-                        <Badge color='warning' badgeContent={`0`} >
-
-                            <FavoriteBorderIcon sx={{color:'black'}} />
-                            </Badge>
-                            <Typography sx={{color:'black',display:{xs:'none',sm:'flex'}}} component='p'>
-                            favourites
-                            </Typography>
-                        </IconButton>
+                         
                         <IconButton
                         
                         onClick={()=>setOpen(!open)}

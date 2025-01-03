@@ -98,7 +98,7 @@ export default function Checkout() {
   return (
   <>
   <Head>
-  <title>Powerhouse electronics | Checkout | Order</title>
+  <title>Oxinab | Checkout | Order</title>
         <meta name="robots" content="index,follow"/>
 {/* <meta name="description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
@@ -112,21 +112,21 @@ export default function Checkout() {
 <meta name="theme-color" content="#0794ca" />
 <meta content="powerhouse-lb.com" name="author" />
 
-<link rel="canonical" href="https://powerhouse-lb.com/" />
-<link rel="alternate" href="https://powerhouse-lb.com/" hrefLang="en"/>
+<link rel="canonical" href="https://oxinab.netlify.app/" />
+<link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Powerhouse electronics | Buy European electronics and home appliances in Lebanon" />
-<meta property="og:url" content="https://powerhouse-lb.com/" />
+<meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
+<meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Power house" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
-        Powerhouse electronics is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
         `} />
        <meta name="description" content={`
-        Powerhouse electronics is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
   </Head>

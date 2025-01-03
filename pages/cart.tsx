@@ -188,9 +188,9 @@ const Index = () => {
     return ( <>
      <Head>
 
-     <title>Powerhouse electronics | Cart</title>
+     <title>Oxinab | Cart</title>
         <meta name="description" content={`
-        Powerhouse electronics is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         {/* <link rel="icon" href="/favicon.ico"/> */}

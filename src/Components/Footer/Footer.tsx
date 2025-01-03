@@ -13,7 +13,7 @@ const Footer = () => (
               {/* <a><h1 className="site-logo"><Logo />E-Shop</h1></a> */}
               {/* https://res.cloudinary.com/dwxm8f25f/image/upload/v1675357773/logo_ghli5e.jpg */}
               {/* https://res.cloudinary.com/dwxm8f25f/image/upload/v1675713948/logo_sktnut_1_jwy2hk.png */}
-              <img className='img' src='https://ucarecdn.com/14ddda63-77fa-45da-bd4b-c76dfc287c15/e8acdc0271fa456c839e813308bffa17.png' alt="Powerhouse-lb Logo" />
+              <img className='img' src='https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png' alt="Powerhouse-lb Logo" />
             </Link>
           </div>
           <Typography component='h1' sx={{ fontSize: '.9em' , color:'black'}} className='footer-p'>

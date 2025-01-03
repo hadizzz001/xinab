@@ -74,12 +74,12 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta name="theme-color" content="#0794ca" />
 <meta content="powerhouse-lb.com" name="author" />
 
-<link rel="canonical" href="https://powerhouse-lb.com/" />
-<link rel="alternate" href="https://powerhouse-lb.com/" hrefLang="en"/>
+<link rel="canonical" href="https://oxinab.netlify.app/" />
+<link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
-<meta property="og:url" content="https://powerhouse-lb.com/" />
+<meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Oxinab" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
