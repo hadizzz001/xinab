@@ -131,6 +131,13 @@ export default function Home({data :staticData,category}:{category:any,data:any}
   }}
 />
 
+<style
+  dangerouslySetInnerHTML={{
+    __html: "\n  .css-1iibw1i { \n        background: black !important;\n}\n"
+  }}
+/>
+
+
     </>
   )
 }
