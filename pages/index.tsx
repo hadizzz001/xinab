@@ -119,23 +119,6 @@ export default function Home({data :staticData,category}:{category:any,data:any}
         </main>
       <Perks/>
 
-      <style
-  dangerouslySetInnerHTML={{
-    __html: "\n  .css-1de4lbj {\n    background: #fff; \n}\n"
-  }}
-/>
-<style
-  dangerouslySetInnerHTML={{
-    __html:
-      "\n  .css-r5rjk5-MuiPaper-root-MuiAppBar-root {\n    background: #fff; \n}\n"
-  }}
-/>
-
-<style
-  dangerouslySetInnerHTML={{
-    __html: "\n  .css-1iibw1i { \n        background: white !important;\n}\n"
-  }}
-/>
 
 
     </>
