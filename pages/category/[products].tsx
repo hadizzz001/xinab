@@ -91,7 +91,7 @@ const Index = ({data,count}:any) => {
 <link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
+<meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Power house" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
@@ -128,11 +128,10 @@ const Index = ({data,count}:any) => {
     </AccordionSummary>
     <AccordionDetails>
 
-    <FilterSection handleReset={handleReset} setProducts={setProducts} />
+    
     </AccordionDetails>
     </Accordion>
     <Box sx={{display:{xs:'none',md:'block'},width:'20%'}}>
-    <FilterSection handleReset={handleReset} setProducts={setProducts} sx={{width:'100%'}}/>
     </Box>
     <ProductSection count={count} handlePagination={handlePagination}  data={products} setQuickView={handleQuickView}/>
     <Divider/>

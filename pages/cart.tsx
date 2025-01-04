@@ -190,7 +190,7 @@ const Index = () => {
 
      <title>Oxinab | Cart</title>
         <meta name="description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         {/* <link rel="icon" href="/favicon.ico"/> */}

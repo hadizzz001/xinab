@@ -78,17 +78,17 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
+<meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Oxinab" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
        <meta name="description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
       </Head>

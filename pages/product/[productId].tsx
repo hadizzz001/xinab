@@ -54,7 +54,7 @@ const Index = ({data,collection}:any) => {
 <link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
+<meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Power house" />
 <meta property="og:image" content={data.images[0]}/>
@@ -65,10 +65,10 @@ const Index = ({data,collection}:any) => {
 
 
 <meta name="og:description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
        <meta name="description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />   
     </Head>

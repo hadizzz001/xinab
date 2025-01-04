@@ -103,10 +103,7 @@ export default function Checkout() {
 {/* <meta name="description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
 <meta name="distribution" content="Global"/>
-<meta name="keywords" content="e, electronic stores, lebanon, electronics store near me,  electronics, electronic, tv, tvs, electronic components,
- electrical, kitchens,  supply,  Engineering, washer, dryer, kneading, fridge, refrigerator, standing steam, pancake maker, Cotton candy machine, Electric kettle,
-  Thermoelectric cool box, Ice Cube Machine,  Hot Air Fryer, stand mixer, Juicer, carpet cleaner , Espresso, cyclonic vacuum cleaner, vacuum, cleaner, steam iron
-  , gas grill, gas, grill, cooker,Electric Pot, Electric fryer, Freezer, Inverter  "/>
+<meta name="keywords" content="stethoscope, thermometer, sphygmomanometer, nebulizer, glucometer, otoscope, defibrillator, ultrasound machine, ECG machine, MRI scanner, CT scanner, infusion pump, ventilator, surgical scissors, scalpel, forceps, retractors, sutures, syringes, IV drip, oxygen concentrator, pulse oximeter, wheelchair, crutches, prosthetics, orthopedic braces, dialysis machine, endoscope, anesthesia machine, dental drill, sterilizer, biopsy needle, blood bag, catheter, pacemaker, hearing aid, microscope, laboratory centrifuge, incubator, autoclave, surgical lights, examination table, medical gloves, face masks, surgical gown, first aid kit, bandages, splints, medical swabs, disinfectants, EpiPen, insulin pen, diagnostic test kits, hospital bed, patient monitor, suction machine, blood pressure cuff."/>
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 <meta httpEquiv="content-language" content="en" />
 <meta name="theme-color" content="#0794ca" />
@@ -116,17 +113,17 @@ export default function Checkout() {
 <link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Oxinab | Buy European electronics and home appliances in Lebanon" />
+<meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.netlify.app/" />
 <meta property="og:site_name" content="Power house" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
        <meta name="description" content={`
-        Oxinab is your destination to buy european electronics and home appliances online in Lebanon. Best online shopping store for the latest electronics and home appliances from all brands. We Deliver anywhere in Lebanon
+        Oxinab specializing in providing high-quality medical supplies and healthcare solutions.
         `} />
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
   </Head>
