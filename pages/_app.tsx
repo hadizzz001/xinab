@@ -54,6 +54,12 @@ export default function App({ Component, pageProps }: AppProps) {
       '\n  .css-1bjm438-MuiTypography-root{ \n      font-family: "Lato", serif !important;\n  font-weight: 700 !important;\n  }\n'
   }}
 />
+<style
+  dangerouslySetInnerHTML={{
+    __html:
+      '\n  .css-h0szu9{\n      font-family: "Lato", serif !important;\n  font-weight: 700 !important;\n  }\n'
+  }}
+/>
 
 
   </DrawerContext.Provider>
