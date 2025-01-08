@@ -39,7 +39,7 @@ const Perks = () => {
                     }}>Reach out to us through any of these support channels</span>
             </Box>
             <Box sx={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '1em' }}>
-                {/* {[{title:'Phone Number',value:"71513432",isLink:false}, {isLink:true,title:'Instagram',value:'https://www.instagram.com/oxi.nab'}, {isLink:true,title:'Facebook',value:'https://www.facebook.com/oxinab.medical'}].map(i => {
+                {/* {[{title:'Phone Number',value:"76878113",isLink:false}, {isLink:true,title:'Instagram',value:'https://www.instagram.com/oxi.nab'}, {isLink:true,title:'Facebook',value:'https://www.facebook.com/oxinab.medical'}].map(i => {
                     return 
                 })} */}
 
@@ -129,7 +129,7 @@ const Perks = () => {
                             justifyContent: 'center',
                             flexDirection: 'column'
                         }}>
-                        {<a className='white' target={`_blank`} style={{textDecoration:"none"}} rel='noreferrer' href={"https://wa.me/96171513432"}>
+                        {<a className='white' target={`_blank`} style={{textDecoration:"none"}} rel='noreferrer' href={"https://wa.me/96176878113"}>
 
 
                             <Typography

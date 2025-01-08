@@ -100,7 +100,7 @@ const Index = ({data,collection}:any) => {
 
       </Box>
       <Typography className='gray' sx={{textAlign:'center'}}>or</Typography>
-      <a href='https://wa.me/+96171513432' target='_blank'   rel="noreferrer"
+      <a href='https://wa.me/+96176878113' target='_blank'   rel="noreferrer"
       
 
     

@@ -40,7 +40,7 @@ const Footer = () => (
 
           <ul className='ul-white' style={{ color: 'black', background: 'white' }}>
             <li className='link-title'>Contact</li>
-            <li><a href="#"> Lebanon/Beirut Online</a></li>
+            <li><a href="#"> Lebanon/Beirut </a></li>
 
             <li>
               <a href="https://www.facebook.com/oxinab.medical" target="_blank" rel="noreferrer" >
@@ -52,8 +52,8 @@ const Footer = () => (
             </li>
  
 
-            <li><a href={'https://wa.me/71513432'} rel="noreferrer" target='_blank' >
-            <img className='img' src='https://ucarecdn.com/678f97e4-123b-44e8-89b0-5adc4f738898/wa.png' style={{ width: 20}}/>{` +961 71 513 432`}
+            <li><a href={'https://wa.me/76878113'} rel="noreferrer" target='_blank' >
+            <img className='img' src='https://ucarecdn.com/678f97e4-123b-44e8-89b0-5adc4f738898/wa.png' style={{ width: 20}}/>{` +961 76 878 113`}
             </a></li>
 
           </ul>

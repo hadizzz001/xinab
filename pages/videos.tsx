@@ -57,8 +57,8 @@ const Index = () => {
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
-       View different Videos from Powerhouse-lb for the best european house appliances. We deliver anywhere in lebanon | Best online shop in lebanon.`} />
-       <meta name="description" content={` View different Videos from Powerhouse-lb for the best european house appliances. We deliver anywhere in lebanon | Best online shop in lebanon.`} />
+       We deliver anywhere in lebanon | Best shop in lebanon.`} />
+       <meta name="description" content={`We deliver anywhere in lebanon | Best  shop in lebanon.`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
 
     </Head>

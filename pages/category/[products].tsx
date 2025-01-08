@@ -98,8 +98,8 @@ const Index = ({data,count}:any) => {
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
-        Shop different ${router?.query?.products} from Powerhouse-lb for the best european house appliances. We deliver anywhere in lebanon | Best online shop in lebanon.`} />
-       <meta name="description" content={` Shop different ${router?.query?.products} from Powerhouse-lb for the best european house appliances. We deliver anywhere in lebanon | Best online shop in lebanon.`} />
+        Shop different ${router?.query?.products} We deliver anywhere in lebanon | Best shop in lebanon.`} />
+       <meta name="description" content={` Shop different ${router?.query?.products} We deliver anywhere in lebanon | Best shop in lebanon.`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" /> 
 
     </Head>

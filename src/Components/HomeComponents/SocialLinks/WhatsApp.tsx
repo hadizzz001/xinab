@@ -3,7 +3,7 @@ import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 
 const WhatsApp = () => {
     return (
-        <a href='https://wa.me/+96171513432' target='_blank'   rel="noreferrer">
+        <a href='https://wa.me/+96176878113' target='_blank'   rel="noreferrer">
 
         <Box
             sx={{
@@ -24,7 +24,7 @@ const WhatsApp = () => {
                 px: '1em',
                 borderRadius: '6px'
             }}>
-                +961 71 513 432
+                +961 76 878 113
             </Box>
             <IconButton
                 sx={{
