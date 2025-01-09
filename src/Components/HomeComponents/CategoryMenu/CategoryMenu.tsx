@@ -16,7 +16,7 @@ const CategoryMenu = ({category}:{category:string[] | undefined}) => {
             px: '1.25em',
             maxWidth: 'xl'
         }}>
-            {['Burnshield','E.M.S','Pharmacy','Laboratory' ,'Oxygene' ,'Boonfeet' ,'Orthopedics','Sterilisation','Dental'].map((item) => {
+            {['Burnshield','E.M.S','Pharmacy','Laboratory' ,'Oxygen' ,'Boonfeet' ,'Orthopedics','Sterilisation','Dental'].map((item) => {
                 return <Box  sx={{cursor:'pointer'}} key={item} onClick={()=> item !== 'videos' ? 
                 
                 router.push(`/category/${item.replace(/\s+/g, '-')}`) :  router.push(`/videos`)
