@@ -12,7 +12,7 @@ export default function ColdData() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const res = await fetch(`${server}/api/cold1`);
+        const res = await fetch(`/api/cold1`);
         if (!res.ok) throw new Error("Failed to fetch data");
 
         const json = await res.json();

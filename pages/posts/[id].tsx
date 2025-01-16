@@ -36,7 +36,7 @@ export default function PostDetail() {
 
     async function fetchPost() {
       try {
-        const res = await fetch(`${server}/api/posts/${id}`);
+        const res = await fetch(`/api/posts/${id}`);
         if (!res.ok) throw new Error("Failed to fetch post");
 
         const json = await res.json();
