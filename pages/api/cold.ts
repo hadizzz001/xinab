@@ -77,7 +77,7 @@ export default async (_req: NextApiRequest, res: NextApiResponse) => {
     //         return res.status(200).json(products);
     //       }
 
-      return res.status(200).json({success:true});
+      return docs
 
   }
 return res.status(404).json({success:false});

@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { Typography } from '@mui/material'
 // import Logo from '../../assets/icons/logo';
 
-const Footer = () => (
+const Grids = () => (
   <footer className="site-footer " style={{ color: 'black', background: 'white' }}>
     <div className="container " style={{ color: 'black', background: 'white' }}>
       <div className="site-footer__top">
@@ -71,4 +71,4 @@ const Footer = () => (
 );
 
 
-export default Footer
+export default Grids
