@@ -50,12 +50,12 @@ const Index = ({data,collection}:any) => {
 <meta name="theme-color" content="#0794ca" />
 <meta content="powerhouse-lb.com" name="author" />
 
-<link rel="canonical" href="https://oxinab.netlify.app/" />
-<link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
+<link rel="canonical" href="https://oxinab.me/" />
+<link rel="alternate" href="https://oxinab.me/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oxinab" />
-<meta property="og:url" content="https://oxinab.netlify.app/" />
+<meta property="og:url" content="https://oxinab.me/" />
 <meta property="og:site_name" content="Power house" />
 <meta property="og:image" content={data.images[0]}/>
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}

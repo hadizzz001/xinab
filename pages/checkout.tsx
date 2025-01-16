@@ -136,12 +136,12 @@ export default function Checkout() {
         <meta name="theme-color" content="#0794ca" />
         <meta content="powerhouse-lb.com" name="author" />
 
-        <link rel="canonical" href="https://oxinab.netlify.app/" />
-        <link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en" />
+        <link rel="canonical" href="https://oxinab.me/" />
+        <link rel="alternate" href="https://oxinab.me/" hrefLang="en" />
 
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Oxinab" />
-        <meta property="og:url" content="https://oxinab.netlify.app/" />
+        <meta property="og:url" content="https://oxinab.me/" />
         <meta property="og:site_name" content="Power house" />
         <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
         {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}

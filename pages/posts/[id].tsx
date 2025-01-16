@@ -73,12 +73,12 @@ electrical, kitchens,  supply,  Engineering, washer, dryer, kneading, fridge, re
 <meta name="theme-color" content="#0794ca" />
 <meta content="powerhouse-lb.com" name="author" />
 
-<link rel="canonical" href="https://oxinab.netlify.app/" />
-<link rel="alternate" href="https://oxinab.netlify.app/" hrefLang="en"/>
+<link rel="canonical" href="https://oxinab.me/" />
+<link rel="alternate" href="https://oxinab.me/" hrefLang="en"/>
 
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oxinab" />
-<meta property="og:url" content="https://oxinab.netlify.app/" /> 
+<meta property="og:url" content="https://oxinab.me/" /> 
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 
 
