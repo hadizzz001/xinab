@@ -10,6 +10,8 @@ import NextNProgress from 'nextjs-progressbar';
 export const DrawerContext = createContext<any>({});
 export const CartContext = createContext<any>({});
 export const Categories = createContext<any>([]);
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 export default function App({ Component, pageProps }: AppProps) {
   const [open,
@@ -66,7 +68,10 @@ export default function App({ Component, pageProps }: AppProps) {
       '\n  .css-10hburv-MuiTypography-root{\n      font-family: "Lato", serif !important;\n  font-weight: 700 !important;\n  }\n'
   }}
 />
-
+<link
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+  rel="stylesheet"
+/>
 
   </DrawerContext.Provider>
 }

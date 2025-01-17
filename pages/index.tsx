@@ -8,7 +8,7 @@ import ProductCollection from '../src/Components/HomeComponents/ProductCollectio
 import Perks from '../src/Components/HomeComponents/Perks/Perks';
 import TopAd from '../src/Components/HomeComponents/TopAd/TopAd';
 import Navbar from '../src/Components/Navbar/Navbar';
-import Grids from '../src/Components/Grids/Grids';
+import Grids1 from '../src/Components/Grids1/Grids1';
 // import SideBar from '../src/Components/Drawer/SideBar';
 // import { Dialog } from '@mui/material';
 import QuickView from '../src/Components/Dialog/QuickView';
@@ -98,28 +98,8 @@ export default function Home({data :staticData,category}:{category:any,data:any}
       <Navbar />
       
       <CategoryMenu category={category}/>
-      <main>
-      {/* <VideoHero/> */}
-
-      {/* <MainCarousel/> */}
-      {/* <CategoryImages/> */}
-      <WhatsApp/>
-      <ProductCollection enableVideo data={data && data.slice(0,20)} setQuickView={setQuickView} Collectiontitle='Latest Products '/>      
       
-      <ProductCollection  data={data && data.slice(20,30)} setQuickView={setQuickView} Collectiontitle='Top Sellers'/>      
-      {/* <FullscreenPoster img='https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/SBS22-ASP-Hero-DSK-A.png'/> */}
-      <ProductCollection data={data && data.slice(30,45)} setQuickView={setQuickView} Collectiontitle='Recommended Products '/>      
-      {/* <CategoryList/> */}
-        { data && data?.slice(12,16)?.length > 0 &&
-
-          <ProductCollection data={data && data.slice(45,55)} setQuickView={setQuickView} Collectiontitle='Best Of The Best'/>      
-        }
-
-      {/* <FullscreenPoster img='https://cdn.shopify.com/s/files/1/0317/1831/0026/files/shop_now_1800_x600_b3aa621e-b818-4478-8679-7d16e108de14_1200x.png?v=1613728741'/> */}
-     
-        <QuickView setQuickView={setQuickView} productId={quickView.productId} isOpen={quickView.isOpen}/>
-        </main>
-        <Grids />
+        <Grids1 />
       <Perks/>
 
 
