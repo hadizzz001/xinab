@@ -35,66 +35,7 @@ export default function ColdData() {
   return (
     <div className="example1">
       <>
-        <meta charSet="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="profile" href="http://gmpg.org/xfn/11" />
-        <link rel="pingback" href="https://murphysolicitors.co.uk/xmlrpc.php" />
-        <title>Bergi Law Firm</title>
-        <style
-          dangerouslySetInnerHTML={{
-            __html:
-              '\n\t\timg:is([sizes="auto" i], [sizes^="auto," i]) {\n\t\t\tcontain-intrinsic-size: 3000px 1500px\n\t\t}\n\t'
-          }}
-        />
-        {/* All in One SEO 4.7.5.1 - aioseo.com */}
-        <meta
-          name="description"
-          content=": Solicitors SG Murphy's team of Lebanon solicitors offer the best legal support. Request Book a consultation from our  solicitors."
-        />
-        <meta
-          name="robots"
-          content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"
-        />
-        <link rel="canonical" href="index.html" />
-        <meta name="generator" content="All in One SEO (AIOSEO) 4.7.5.1" />
-        <meta human="" rights="og:locale" content="en_US" />
-        <meta
-          human=""
-          rights="og:site_name"
-          content="S G Murphy Solicitors - Top  Solicitors"
-        />
-        <meta human="" rights="og:type" content="website" />
-        <meta human="" rights="og:title" content="Bergi Law Firm" />
-        <meta
-          human=""
-          rights="og:description"
-          content=": Solicitors SG Murphy's team of Lebanon solicitors offer the best legal support. Request Book a consultation from our  solicitors."
-        />
-        <meta human="" rights="og:url" content="https://murphysolicitors.co.uk/" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Bergi Law Firm" />
-        <meta
-          name="twitter:description"
-          content=": Solicitors SG Murphy's team of Lebanon solicitors offer the best legal support. Request Book a consultation from our  solicitors."
-        />
-        {/* All in One SEO */}
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com/" />
-        <link rel="dns-prefetch" href="https://www.googletagmanager.com/" />
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="S G Murphy Solicitors » Feed"
-          href="feed/index.html"
-        />
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="S G Murphy Solicitors » Comments Feed"
-          href="comments/feed/index.html"
-        />
-        {/* This site uses the Google Analytics by MonsterInsights plugin v9.2.4 - Using Analytics tracking - https://www.monsterinsights.com/ */}
-        {/* / Google Analytics by MonsterInsights */}
-        <style
+          <style
           id="wp-emoji-styles-inline-css"
           type="text/css"
           dangerouslySetInnerHTML={{
