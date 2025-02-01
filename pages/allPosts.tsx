@@ -73,7 +73,7 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 <meta httpEquiv="content-language" content="en" />
 <meta name="theme-color" content="#0794ca" />
-<meta content="powerhouse-lb.com" name="author" />
+<meta content="oxinab.me" name="author" />
 
 <link rel="canonical" href="https://oxinab.me/" />
 <link rel="alternate" href="https://oxinab.me/" hrefLang="en"/>

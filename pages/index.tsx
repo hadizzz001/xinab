@@ -70,7 +70,7 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 <meta httpEquiv="content-language" content="en" />
 <meta name="theme-color" content="#0794ca" />
-<meta content="powerhouse-lb.com" name="author" />
+<meta content="oxinab.me" name="author" />
 
 <link rel="canonical" href="https://oxinab.me/" />
 <link rel="alternate" href="https://oxinab.me/" hrefLang="en"/>
@@ -79,7 +79,7 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.me/" />
 <meta property="og:site_name" content="Oxinab Lebanon" />
-<meta property="og:image" content="https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png" />
+<meta property="og:image" content="https://ucarecdn.com/85ded4d1-1fad-439f-bbab-f52716a7eeea/pics.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
