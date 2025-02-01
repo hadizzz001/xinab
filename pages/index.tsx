@@ -79,7 +79,7 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.me/" />
 <meta property="og:site_name" content="Oxinab Lebanon" />
-<meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
+<meta property="og:image" content="https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
 <meta name="og:description" content={`
