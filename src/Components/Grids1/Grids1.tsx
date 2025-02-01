@@ -301,10 +301,16 @@ export default function ColdData() {
                       <img
                         src={item.images[0]}
                         alt={item.title}
-                        width={599}
-                        height={317}
+                        width={599} 
                         className="example5"
                       />
+                      <style
+  dangerouslySetInnerHTML={{
+    __html:
+      "\n    .example5 {\n  height: 100%;\n  object-fit: cover; /* Optional: ensures the image maintains its aspect ratio */\n}\n"
+  }}
+/>
+
                     </div>
                   </div>
                 </div>

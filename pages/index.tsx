@@ -61,15 +61,12 @@ export default function Home({data :staticData,category}:{category:any,data:any}
     return (
     <>
       <Head>
-        <title>Oxinab</title>
+        <title>Oxinab Lebanon</title>
         <meta name="robots" content="index,follow"/>
 {/* <meta name="description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
 <meta name="distribution" content="Global"/>
-<meta name="keywords" content="e, electronic stores, lebanon, electronics store near me,  electronics, electronic, tv, tvs, electronic components,
- electrical, kitchens,  supply,  Engineering, washer, dryer, kneading, fridge, refrigerator, standing steam, pancake maker, Cotton candy machine, Electric kettle,
-  Thermoelectric cool box, Ice Cube Machine,  Hot Air Fryer, stand mixer, Juicer, carpet cleaner , Espresso, cyclonic vacuum cleaner, vacuum, cleaner, steam iron
-  , gas grill, gas, grill, cooker,Electric Pot, Electric fryer, Freezer, Inverter  "/>
+<meta name="keywords" content="Oxinab Lebanon, Burnshield , Medical supplies, Biosynex, laboratory , Burn dressings , First aid , Rapid test, oxygen, HIV test, pregnancy test, Chest seal, Bandage, Philips, Spencer , Burn cream, eye drops, innoxa"/>
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 <meta httpEquiv="content-language" content="en" />
 <meta name="theme-color" content="#0794ca" />
@@ -81,7 +78,7 @@ export default function Home({data :staticData,category}:{category:any,data:any}
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.me/" />
-<meta property="og:site_name" content="Oxinab" />
+<meta property="og:site_name" content="Oxinab Lebanon" />
 <meta property="og:image" content="https://ucarecdn.com/7a7d64a9-6cb4-4cd2-b363-25b71a94ec3b/icon.jpg" />
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
      
