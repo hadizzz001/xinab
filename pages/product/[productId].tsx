@@ -57,7 +57,7 @@ const Index = ({data,collection}:any) => {
 <meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.me/" />
 <meta property="og:site_name" content="Power house" />
-<meta property="og:image" content={data.images[0]}/>
+<meta property="og:image" content="https://ucarecdn.com/85ded4d1-1fad-439f-bbab-f52716a7eeea/pics.jpg"/>
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 
 
