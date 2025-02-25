@@ -92,7 +92,7 @@ export default function Navbar() {
                         <Link href='/' color='inherit'>
                             <img
                             className='img'
-                            src="https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png"
+                            src="https://res.cloudinary.com/dusvquybw/image/upload/v1740486308/ksqnjjiw0smwkv3ahael.png"
                             alt="Oxinab eshop logo"/>
                         </Link>
                     </Box>

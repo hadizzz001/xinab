@@ -13,7 +13,7 @@ const Grids = () => (
               {/* <a><h1 className="site-logo"><Logo />E-Shop</h1></a> */}
               {/* https://res.cloudinary.com/dwxm8f25f/image/upload/v1675357773/logo_ghli5e.jpg */}
               {/* https://res.cloudinary.com/dwxm8f25f/image/upload/v1675713948/logo_sktnut_1_jwy2hk.png */}
-              <img className='img' src='https://ucarecdn.com/1330762b-c82a-4789-b9a0-d5244d306edf/logo1.png' alt="Powerhouse-lb Logo" />
+              <img className='img' src='https://res.cloudinary.com/dusvquybw/image/upload/v1740486308/ksqnjjiw0smwkv3ahael.png' alt="Powerhouse-lb Logo" />
             </Link>
           </div>
           <Typography component='h1' sx={{ fontSize: '.9em' , color:'black'}} className='footer-p'>
@@ -44,16 +44,16 @@ const Grids = () => (
 
             <li>
               <a href="https://www.facebook.com/oxinab.medical" target="_blank" rel="noreferrer" >
-                <img className='img' src='https://ucarecdn.com/d77856af-ef62-40fd-97c5-60bbb0cb0098/fb.png' style={{ width: 20}}/> Facebook</a>
+                <img className='img' src='https://res.cloudinary.com/dusvquybw/image/upload/v1740486565/ikmyyldcxlckbpomi0eh.png' style={{ width: 20}}/> Facebook</a>
             </li>
 
             <li><a href="https://www.instagram.com/oxi.nab" target="_blank" rel="noreferrer" >
-            <img className='img' src='https://ucarecdn.com/114fe16a-c2f7-49c6-90ed-cc30336768f8/insta.png' style={{ width: 20}}/> Instagram</a>
+            <img className='img' src='https://res.cloudinary.com/dusvquybw/image/upload/v1740486565/jg1athhu2zxmx8gfkpfg.png' style={{ width: 20}}/> Instagram</a>
             </li>
  
 
             <li><a href={'https://wa.me/76878113'} rel="noreferrer" target='_blank' >
-            <img className='img' src='https://ucarecdn.com/678f97e4-123b-44e8-89b0-5adc4f738898/wa.png' style={{ width: 20}}/>{` +961 76 878 113`}
+            <img className='img' src='https://res.cloudinary.com/dusvquybw/image/upload/v1740486565/u1es2oktcd7p2kgugege.png' style={{ width: 20}}/>{` +961 76 878 113`}
             </a></li>
 
           </ul>

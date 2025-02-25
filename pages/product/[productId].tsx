@@ -41,10 +41,7 @@ const Index = ({data,collection}:any) => {
 {/* <meta name="description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
 <meta name="distribution" content="Global"/>
-<meta name="keywords" content="e, electronic stores, lebanon, electronics store near me,  electronics, electronic, tv, tvs, electronic components,
- electrical, kitchens,  supply,  Engineering, washer, dryer, kneading, fridge, refrigerator, standing steam, pancake maker, Cotton candy machine, Electric kettle,
-  Thermoelectric cool box, Ice Cube Machine,  Hot Air Fryer, stand mixer, Juicer, carpet cleaner , Espresso, cyclonic vacuum cleaner, vacuum, cleaner, steam iron
-  , gas grill, gas, grill, cooker,Electric Pot, Electric fryer, Freezer, Inverter  "/>
+<meta name="keywords" content="Oxinab Lebanon, Burnshield , Medical supplies, Biosynex, laboratory , Burn dressings , First aid , Rapid test, oxygen, HIV test, pregnancy test, Chest seal, Bandage, Philips, Spencer , Burn cream, eye drops, innoxa"/>
 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
 <meta httpEquiv="content-language" content="en" />
 <meta name="theme-color" content="#0794ca" />
@@ -57,7 +54,7 @@ const Index = ({data,collection}:any) => {
 <meta property="og:title" content="Oxinab" />
 <meta property="og:url" content="https://oxinab.me/" />
 <meta property="og:site_name" content="Power house" />
-<meta property="og:image" content="https://ucarecdn.com/85ded4d1-1fad-439f-bbab-f52716a7eeea/pics.jpg"/>
+<meta property="og:image" content="https://res.cloudinary.com/dusvquybw/image/upload/v1740486798/e767gffynefbmg5uz631.jpg"/>
 {/* <meta property="og:description" content="Power house provide a wide range of European electronics (stock and new)" /> */}
 
 
